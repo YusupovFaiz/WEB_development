@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Студия танцевального коллектива</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td colspan="2" style="text-align: center; background-color: #ff8800; font-size: 25px; color: black;">
+                    <h2>Студия танцевального коллектива</h2>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #3688f3c1; width: 330px; font-size: 25px;">
+                    <h3 align="center">О нас:</h3>
+                    <ul>
+                        <li><a href="https://citydance.by/aktsii-skidki">Акции и скидки</a></li>
+                        <li><a href="https://citydance.by/directions">Направления</a></li>
+                        <p></p>
+                        <li><a href="https://citydance.by/raspisanie">Расписание</a></li>
+                        <li><a href="https://citydance.by/filialy">Филиалы</a></li>
+                        <p></p>
+                        <li><a href="https://citydance.by/novosti">Новости</a></li>
+                        <li><a href="https://citydance.by/kontakty">Контакты»</a></li>
+                    </ul>
+                </td>
+                <td style="font-size: 30px; background: url('images/1.png') right bottom repeat-y">
+                    <h2 align="center">Студия танцевального коллектива</h2>
+                    <img src="images/2.jpg" style='float: left; width: 390px; margin: 30px'>
+                    <div style="padding-left: 30px; padding-top: 30px;">Студия танцевального коллектива CityDance приглашает детей и взрослых записаться на танцы в Минске по доступным ценам. Хотите научиться танцевать по-настоящему – тогда наша школа танцев для Вас.  
+                        <p> Удобное расположение филиалов в Минске позволит подобрать подходящий. В современную эпоху ребята подрастающего поколения, особенно в больших городах, таких как Минск, проводят просто непозволительное количество часов за компьютером, смартфоном или планшетом. Подростки и помладше активно пользуются прогрессом информационных технологий - общение онлайн с товарищами, игры, социальные сети, просмотр захватывающих видео. Какие тут танцы, если можно побегать или потанцевать виртуально.
+                            Подавляющую часть свободного времени дети, сами того не понимая, с завидным упорством портят себе осанку, садят зрение и набирают лишний вес.  Студия современного танца CityDance в Минске позволит Вам далеко убежать от скучного образа жизни, найти новые знакомства и получить значительную порцию позитивных эмоций.</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center; background-color: #c9d354; font-size: 25px; color: black">
+                    <h2>Офис:</h2> г. Минск, ул. ул. Ольшевского 1к1 <br> (ПН–ПТ с 12:00 до 20:00).
+                    <h3>Номер телефона: <br> +375 (33) 365-32-99</h3>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
